@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1> Hi 👋, I'm maze508</h1>
+<h4>I'm a Data Science Enthusiast</h4>
 
-<!--
-**maze508/maze508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maze508&label=Profile%20views&color=0e75b6&style=flat" alt="maze508" /> </p>
 
-Here are some ideas to get you started:
+📝 Blog Posts @ [My Blog](https://maze508.github.io/)
+- [Kaggle : Jigsaw Rate Severity of Toxic Comments](https://maze508.github.io/2022/03/15/Jigsaw_4.html)
+- [EY : Better Working World Data Challenge 2022](https://maze508.github.io/2022/07/09/BWWDC.html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">ML Frameworks :</h3>
+<p align="left"> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maze508&show_icons=true&locale=en" alt="maze508" /></p>
