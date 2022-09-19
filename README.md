@@ -1,4 +1,4 @@
-<h1> Hi 👋, I'm maze508</h1>
+<h1> Hi 👋, I'm Ze Xuan</h1>
 <p>I'm a Tech Enthusiast with interests in Data Science and Software Engineering. You can find me on :</p>
 
 <ul>
